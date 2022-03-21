@@ -1,0 +1,10 @@
+/*title section*/
+#title{
+    background-color: red;
+}
+
+/*footer section*/
+#footer{
+    padding: 5% 15%;
+    text-align: center
+}
